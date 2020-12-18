@@ -5,5 +5,5 @@
 - 💬  I'm interested in Natural Language Processing technologies
 - ⚡  Recently graduated @SFU in Cognitive Science (April 2020)
 
-**Follow my 100DaysOfCode journey on:**
-[Twitter](https://twitter.com/TheDanChang)
+Follow my **100DaysOfCode** journey on:
+[Twitter - @TheDanChang](https://twitter.com/TheDanChang)
