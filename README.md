@@ -1,9 +1,10 @@
-# Welcome and Hello, I'm Dan 👋
+# Welcome and Hello, I'm Dan Chang👋
 
-## I'm the Triple D: 🎧 DJ, 🧑🏻‍💻 Developer, and a 😁 Dreamy Smile
-- 🌱  I'm currently working on WebGL animations with THREEjs
-- 💬  Keenly interested in Natural Language Processing technologies
+I am a creative UX developer and an early adopter of new technologies. 
+
+- 🌱  Currently working on WebGL animations with THREEjs
+- 💬  Interested in Natural Language Processing technologies
 - ⚡  Recently graduated @SFU in Cognitive Science (April 2020)
+- 💪 Passionate about DJing, currently I'm a VR DJ on TribeXR
 
-Follow my **100DaysOfCode** journey on:
-[Twitter - @TheDanChang](https://twitter.com/TheDanChang)
+I update my progress over [@TheDanChang](twitter.com/theDanChang)
