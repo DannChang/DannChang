@@ -1,7 +1,7 @@
-# Welcome, I'm Dan Chang👋
+# I'm Dan Chang 👋
 
-I am a creative Front End Developer whose past life 
-
+A creative Front End Developer. 
+ 
 - 🌱  Currently working on THREEjs 3D modelling
 - 💬  Interested in Natural Language Processing technologies
 - ⚡   BA in Cognitive Science at Simon Fraser University (2020)
