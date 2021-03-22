@@ -10,7 +10,7 @@ From publishing a journal showcasing the outstanding research to founding a conf
 - 💽  Was a mobile DJ in the Lower Mainland. Did you know I'm known for Mitvahs?
 
 # 🤹🏻 Technologies 
-| JavaScript | Python |
+| JavaScript | Python | C++
 
 | React | Next.js | Three.js | HTML | CSS |
 
