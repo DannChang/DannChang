@@ -1,8 +1,11 @@
 # Welcome! 😎
 
-I am a Creative Front End Developer. 
+As a front end developer who studied Cognitive Science at SFU, my goal is to combine cognition and computing to utilize an interdisciplinary approach to
+improving user experiences on the web. 
 
-- 🌱  Currently working on 3D modelling in Three.js.
+From publishing a journal showcasing the outstanding research to founding a conference and inspiring students to think about future technologies, my passion for technology brings me closer to that goal everyday.
+
+- 🌱  Currently working 3D JavaScript in Three.js.
 - ⚡  BA in Cognitive Science at Simon Fraser University (2020).
 - 💽  Was a mobile DJ in the Lower Mainland. Did you know I'm known for Mitvahs?
 
