@@ -14,4 +14,4 @@ From publishing a journal showcasing the outstanding research to founding a conf
 
 | React | Next.js | Three.js | HTML | CSS |
 
-| Node.js | MongoDB | Express |
+| MongoDB | Express |
