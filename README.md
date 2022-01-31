@@ -1,10 +1,13 @@
-# Welcome
+# Welcome to my Github!
 
-- 🌱  Currently at BrainStation to level-up my skills  
-- ⚡  Cognitive Science at Simon Fraser University
-- 💽  Am a DJ in the Lower Mainland. Did you know I'm known for Mitvahs?
+- 🌱  Currently open to developer positions
+- ⚡  Bachelors in Cognitive Science at Simon Fraser University
+- 💽  I spin the 1's and 2's at parties
+
 
 # 🤹🏻 Technologies 
-| HTML | CSS | JavaScript |
+| HTML | CSS (SASS, Tailwind) | JavaScript 
 
-| React | Next.js | Three.js 
+| React (Next.js) | Three.js 
+
+| Node | MySQL | OAuth
