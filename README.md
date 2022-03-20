@@ -1,6 +1,5 @@
 # Welcome to my Github!
 
-- 🌱  Currently open to developer positions
 - ⚡  Bachelors in Cognitive Science at Simon Fraser University
 - 💽  I spin the 1's and 2's at parties
 
